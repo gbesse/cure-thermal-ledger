@@ -17,7 +17,7 @@ Intègre une cinétique Arrhenius du premier ordre sur des paliers déclarés, a
 
 ### Limites
 
-Paramètres matière fournis, énergie dactivation positive et températures Kelvin ; pas de validation chimique, de thermomécanique ni de réglage machine proposé.
+Paramètres matière fournis, énergie d’activation positive et températures Kelvin ; pas de validation chimique, de thermomécanique ni de réglage machine proposé.
 
 ### Validation
 
