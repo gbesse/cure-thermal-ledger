@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cure-thermal-ledger"
+version = "0.1.0a1"
+description = "FR: Rejouer une cuisson avec incertitudes de température et temps manquants | EN: Replay curing with temperature uncertainty and missing intervals | ES: Reproducir curado con incertidumbre térmica e intervalos ausentes"
+requires-python = ">=3.11"
+license = "MIT"
+
+[project.scripts]
+cure-thermal-ledger = "cure_thermal_ledger.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["cure_thermal_ledger*"]

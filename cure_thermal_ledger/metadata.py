@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Rejouer une cuisson avec incertitudes de température et temps manquants', 'en': 'Replay curing with temperature uncertainty and missing intervals', 'es': 'Reproducir curado con incertidumbre térmica e intervalos ausentes'}

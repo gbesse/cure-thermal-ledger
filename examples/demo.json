@@ -1,0 +1,15 @@
+{
+  "prefactor_per_s": 1,
+  "activation_j_per_mol": 0,
+  "end_time_s": 3,
+  "segments": [
+    {
+      "id": "a",
+      "start_s": 0,
+      "end_s": 2,
+      "temperature_low_k": 300,
+      "temperature_high_k": 310
+    }
+  ],
+  "target_conversion": 0.9
+}
